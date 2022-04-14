@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Mumiancherry
-- 👀 I’m interested in .
-- 🌱 I’m currently learning stm32
-- 💞️ I’m looking to collaborate on  intelligent car
-- 📫 How to reach me .
+Don't will speak English in the next.
+SUM:
+Content:
+1.IDMan; 
+2.Arai2;
+3.V2rayN;
 
-<!---
-Mumiancherry/Mumiancherry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Firstly: IDMan（下载器）
+  1.简而言之了，有着全球最快下载速度之名的下载器（IDM）；
+  2.IDM是一个需要付费才可以使用的软件，当然新用户可以免费试用30天，正式版也不贵，仅需要29.95.........
+啊，他们甚至有时候只要24.95...额，，美元（折合人民币大约185/152元），不过在中文网站大概只要99；🤣
+  3.对于我这种资金来源不稳定的人来说，我肯定选择白嫖了😎😎，通过修改选项里的下载内容（指的是UA--用户代理）或者下载绿色版进行部分修改即可；
+  https://wwx.lanzoux.com/iSbsbits7uh （IDM绿色版//蓝奏云）（需要修改部分内容---解压缩后运行！绿化bat.，之后安装并运行IDM；运行后点击选项，上方一栏选择‘连接’--->默认最大连接数为-->4；上方一栏选择‘下载’-->将最下方的UA（用户代理）改为“netdisk;7.0.3.2;PC;PC-Windows;10.0.17763”  --> 点击确认即可            !!!Warning!!! 下载的时候一定要等待软件可以预览再选择下载，否则可能无法下载)                             ---------------------------------------2022/4/14            -----此处绿色版借鉴了软件小妹的油猴脚本内容。
+  4.IDM支持 Microsoft Edge 和Google 扩展，从而实现下载内容无阻碍，当然即使没有也可以通过输入url来添加下载任务。👍👍
+  5.总结完毕，如有疑问自行解决😶😶   哈哈哈，开玩笑，本人能力和经验有限，深层内容亦无法理解，然时间于吾等人少之又少，当然有问题，只要在我能力范围内，尽管问😂。
+ //内容修改于  2022/4/14 ---GitHub/Lidure--//
+ 
